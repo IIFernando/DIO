@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NqM0+KkU4M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nando\\Documents\\DIO\\Estudos C#\\Estudos C#.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nando\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

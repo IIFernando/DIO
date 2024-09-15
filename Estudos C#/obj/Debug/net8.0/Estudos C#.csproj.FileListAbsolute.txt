@@ -1,0 +1,18 @@
+C:\Users\Nando\Documents\DIO\Estudos C#\bin\Debug\net8.0\Estudos C#.exe
+C:\Users\Nando\Documents\DIO\Estudos C#\bin\Debug\net8.0\Estudos C#.deps.json
+C:\Users\Nando\Documents\DIO\Estudos C#\bin\Debug\net8.0\Estudos C#.runtimeconfig.json
+C:\Users\Nando\Documents\DIO\Estudos C#\bin\Debug\net8.0\Estudos C#.dll
+C:\Users\Nando\Documents\DIO\Estudos C#\bin\Debug\net8.0\Estudos C#.pdb
+C:\Users\Nando\Documents\DIO\Estudos C#\obj\Debug\net8.0\Estudos C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nando\Documents\DIO\Estudos C#\obj\Debug\net8.0\Estudos C#.AssemblyInfoInputs.cache
+C:\Users\Nando\Documents\DIO\Estudos C#\obj\Debug\net8.0\Estudos C#.AssemblyInfo.cs
+C:\Users\Nando\Documents\DIO\Estudos C#\obj\Debug\net8.0\Estudos C#.csproj.CoreCompileInputs.cache
+C:\Users\Nando\Documents\DIO\Estudos C#\obj\Debug\net8.0\Estudos C#.dll
+C:\Users\Nando\Documents\DIO\Estudos C#\obj\Debug\net8.0\refint\Estudos C#.dll
+C:\Users\Nando\Documents\DIO\Estudos C#\obj\Debug\net8.0\Estudos C#.pdb
+C:\Users\Nando\Documents\DIO\Estudos C#\obj\Debug\net8.0\Estudos C#.genruntimeconfig.cache
+C:\Users\Nando\Documents\DIO\Estudos C#\obj\Debug\net8.0\ref\Estudos C#.dll
+C:\Users\Nando\Documents\DIO\Estudos C#\obj\Debug\net8.0\Estudos C#.sourcelink.json
+C:\Users\Nando\Documents\DIO\Estudos C#\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Nando\Documents\DIO\Estudos C#\obj\Debug\net8.0\Estudos C#.csproj.AssemblyReference.cache
+C:\Users\Nando\Documents\DIO\Estudos C#\obj\Debug\net8.0\Estudos C#.csproj.Up2Date
