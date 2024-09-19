@@ -1,0 +1,15 @@
+C:\Users\Nando\Documents\DIO\Smartphone\bin\Debug\net8.0\Smartphone.exe
+C:\Users\Nando\Documents\DIO\Smartphone\bin\Debug\net8.0\Smartphone.deps.json
+C:\Users\Nando\Documents\DIO\Smartphone\bin\Debug\net8.0\Smartphone.runtimeconfig.json
+C:\Users\Nando\Documents\DIO\Smartphone\bin\Debug\net8.0\Smartphone.dll
+C:\Users\Nando\Documents\DIO\Smartphone\bin\Debug\net8.0\Smartphone.pdb
+C:\Users\Nando\Documents\DIO\Smartphone\obj\Debug\net8.0\Smartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nando\Documents\DIO\Smartphone\obj\Debug\net8.0\Smartphone.AssemblyInfoInputs.cache
+C:\Users\Nando\Documents\DIO\Smartphone\obj\Debug\net8.0\Smartphone.AssemblyInfo.cs
+C:\Users\Nando\Documents\DIO\Smartphone\obj\Debug\net8.0\Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\Nando\Documents\DIO\Smartphone\obj\Debug\net8.0\Smartphone.sourcelink.json
+C:\Users\Nando\Documents\DIO\Smartphone\obj\Debug\net8.0\Smartphone.dll
+C:\Users\Nando\Documents\DIO\Smartphone\obj\Debug\net8.0\refint\Smartphone.dll
+C:\Users\Nando\Documents\DIO\Smartphone\obj\Debug\net8.0\Smartphone.pdb
+C:\Users\Nando\Documents\DIO\Smartphone\obj\Debug\net8.0\Smartphone.genruntimeconfig.cache
+C:\Users\Nando\Documents\DIO\Smartphone\obj\Debug\net8.0\ref\Smartphone.dll
